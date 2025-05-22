@@ -48,7 +48,6 @@ def cevapla():
 
     threshold = 0.3
     if max_score < threshold:
-        # Benzerlik düşük, kelime bazlı kontrol yap
         input_words = set(processed_input.split())
         
         max_common_words = 0
