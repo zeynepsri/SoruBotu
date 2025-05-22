@@ -1,0 +1,20 @@
+﻿soru;cevap
+Merhaba;Merhaba! SoruBotuna Hoşgeldiniz!
+Bu botun amacı nedir?;Bu botun amacı bilgisayar bilimleri ile ilgilenen kişilere yardımcı olmaktır.
+Bilgisayar Mühendisliği kaç yıldır? Bilgisayar Mühendisliği 4 yıldır fakat hazırlık yılı da mevcut ise +1 yıl daha olmak üere toplam 5 yıldır.
+Veritabanı Nedir?;Veritabanı, verilerin düzenli şekilde saklandığı ve yönetildiği bir sistemdir.
+Yığın (Stack) Nedir?;Yığın (stack), son giren ilk çıkar (LIFO) mantığıyla çalışan bir veri yapısıdır.
+Kuyruk (Queue) Nedir?;Kuyruk (queue), ilk giren ilk çıkar (FIFO) prensibiyle çalışan bir veri yapısıdır.
+İşletim Sistemi (OS) Nedir?;İşletim sistemi, donanım ve yazılımlar arasında köprü olan temel yazılımdır.
+IP adresi nedir?;IP adresi, cihazların internette birbirlerini tanımalarını sağlayan benzersiz bir numaradır.
+TCP nedir?;TCP, internet üzerinden güvenilir veri iletimi sağlayan bir protokoldür.
+Programlama Dili Nedir?;Programlama dili, bilgisayarlara ne yapacaklarını anlatmak için kullanılan bir dildir.
+Python Nedir?;Python, basit sözdizimiyle bilinen popüler ve çok yönlü bir programlama dilidir.
+Algoritma Nedir?;Algoritma, belirli bir problemi çözmek için izlenen adım adım yönergeler bütünüdür.
+Binary Search Nedir?;Binary search, sıralı bir dizide arama yapmak için kullanılan verimli bir algoritmadır.
+Bubble Sort Nedir?;Bubble sort, bitişik elemanları karşılaştırarak sıralama yapan basit bir sıralama algoritmasıdır.
+Veri Yapıları Nelerdir?;Veri yapıları arasında dizi, yığın, kuyruk, ağaç ve grafikler yer alır.
+HTML nedir?;HTML, web sayfalarının yapısını tanımlamak için kullanılan işaretleme dilidir.
+HTTP nedir?;HTTP, web tarayıcıları ile sunucular arasında veri iletimi sağlayan protokoldür.
+OOP nedir?;OOP (Nesne Yönelimli Programlama), yazılımı nesneler aracılığıyla modelleme yöntemidir.
+Bye; Görüşmek üzere! Yardıma ihtiyacın olursa yine buradayım!!!
